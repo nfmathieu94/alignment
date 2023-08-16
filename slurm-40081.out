@@ -1,0 +1,67 @@
+Loading samtools/1.17
+  Loading requirement: libdeflate/1.17 htslib/1.17
+[bwa_index] Pack FASTA... 0.02 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.02 seconds elapse.
+[bwa_index] Update BWT... 0.00 sec
+[bwa_index] Pack forward-only FASTA... 0.02 sec
+[bwa_index] Construct SA from BWT and Occ... 0.01 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index Nipponbare_IRGSP_1.0.sa
+[main] Real time: 0.181 sec; CPU: 0.072 sec
+[bns_restore_core] Parse error reading Nipponbare_IRGSP_1.0.sa.amb
+
+[bam_mating_core] ERROR: Couldn't read header
+[W::hts_set_opt] Cannot change block size for this format
+samtools sort: failed to read header from "nR158-L2-G2-P26-GGTACCGA-CGATCAGC_fixmate.bam"
+[E::hts_open_format] Failed to open file "nR158-L2-G2-P26-GGTACCGA-CGATCAGC.bam" : No such file or directory
+samtools index: failed to open "nR158-L2-G2-P26-GGTACCGA-CGATCAGC.bam": No such file or directory
+[bns_restore_core] Parse error reading Nipponbare_IRGSP_1.0.sa.amb
+
+[bam_mating_core] ERROR: Couldn't read header
+[W::hts_set_opt] Cannot change block size for this format
+samtools sort: failed to read header from "nR158-L2-G2-P27-ATAGCACA-CGATCAGC_fixmate.bam"
+[E::hts_open_format] Failed to open file "nR158-L2-G2-P27-ATAGCACA-CGATCAGC.bam" : No such file or directory
+samtools index: failed to open "nR158-L2-G2-P27-ATAGCACA-CGATCAGC.bam": No such file or directory
+[bns_restore_core] Parse error reading Nipponbare_IRGSP_1.0.sa.amb
+
+[bam_mating_core] ERROR: Couldn't read header
+[W::hts_set_opt] Cannot change block size for this format
+samtools sort: failed to read header from "nR158-L2-2-P28-TCAGACGG-CGATCAGCG_fixmate.bam"
+[E::hts_open_format] Failed to open file "nR158-L2-2-P28-TCAGACGG-CGATCAGCG.bam" : No such file or directory
+samtools index: failed to open "nR158-L2-2-P28-TCAGACGG-CGATCAGCG.bam": No such file or directory
+[bns_restore_core] Parse error reading Nipponbare_IRGSP_1.0.sa.amb
+
+[bam_mating_core] ERROR: Couldn't read header
+[W::hts_set_opt] Cannot change block size for this format
+samtools sort: failed to read header from "nR158-L2-G2-P29-GGATGCAT-CGATCAGC_fixmate.bam"
+[E::hts_open_format] Failed to open file "nR158-L2-G2-P29-GGATGCAT-CGATCAGC.bam" : No such file or directory
+samtools index: failed to open "nR158-L2-G2-P29-GGATGCAT-CGATCAGC.bam": No such file or directory
+[bns_restore_core] Parse error reading Nipponbare_IRGSP_1.0.sa.amb
+
+[bam_mating_core] ERROR: Couldn't read header
+[W::hts_set_opt] Cannot change block size for this format
+samtools sort: failed to read header from "nR158-L2-G2-P30-ACACGGTT-CGATCAGC_fixmate.bam"
+[E::hts_open_format] Failed to open file "nR158-L2-G2-P30-ACACGGTT-CGATCAGC.bam" : No such file or directory
+samtools index: failed to open "nR158-L2-G2-P30-ACACGGTT-CGATCAGC.bam": No such file or directory
+[bns_restore_core] Parse error reading Nipponbare_IRGSP_1.0.sa.amb
+
+[bam_mating_core] ERROR: Couldn't read header
+[W::hts_set_opt] Cannot change block size for this format
+samtools sort: failed to read header from "nR158-L2-G2-P31-CTTAGAGT-CGATCAGC_fixmate.bam"
+[E::hts_open_format] Failed to open file "nR158-L2-G2-P31-CTTAGAGT-CGATCAGC.bam" : No such file or directory
+samtools index: failed to open "nR158-L2-G2-P31-CTTAGAGT-CGATCAGC.bam": No such file or directory
+[bns_restore_core] Parse error reading Nipponbare_IRGSP_1.0.sa.amb
+
+[bam_mating_core] ERROR: Couldn't read header
+[W::hts_set_opt] Cannot change block size for this format
+samtools sort: failed to read header from "nR158-L2-G2-P32-TTCCTCAT-CGATCAGC_fixmate.bam"
+[E::hts_open_format] Failed to open file "nR158-L2-G2-P32-TTCCTCAT-CGATCAGC.bam" : No such file or directory
+samtools index: failed to open "nR158-L2-G2-P32-TTCCTCAT-CGATCAGC.bam": No such file or directory
+[bns_restore_core] Parse error reading Nipponbare_IRGSP_1.0.sa.amb
+
+[bam_mating_core] ERROR: Couldn't read header
+[W::hts_set_opt] Cannot change block size for this format
+samtools sort: failed to read header from "nR158-L2-G2-P33-CGTGCTGG-CGATCAGC_fixmate.bam"
+[E::hts_open_format] Failed to open file "nR158-L2-G2-P33-CGTGCTGG-CGATCAGC.bam" : No such file or directory
+samtools index: failed to open "nR158-L2-G2-P33-CGTGCTGG-CGATCAGC.bam": No such file or directory
